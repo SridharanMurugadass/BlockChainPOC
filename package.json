@@ -10,7 +10,7 @@
   "keywords": [
     "devery"
   ],
-  "author": "blockchain-doppelganger",
+  "author": "Sridharan Murugadass",
   "license": "ISC",
   "dependencies": {
     "@devery/devery": "^0.1.12",
